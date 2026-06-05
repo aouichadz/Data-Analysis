@@ -42,7 +42,7 @@ Main tables:
 
 ### Executive Overview
 
-![Executive Overview](/dashboard1.png)
+![Executive Overview](dashboard1.png)
 
 This page presents:
 
