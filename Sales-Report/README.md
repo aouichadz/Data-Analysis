@@ -4,4 +4,19 @@ This Power BI project analyzes sales performance across products, customers, and
 The objective is to provide actionable insights through interactive dashboards and KPIs.
 
 ---
-## 🎯 Business Questions
+## Business Questions
+- What are the top-performing products?
+- Which regions generate the highest revenue?
+- How do sales evolve over time?
+- Who are the most valuable customers?
+
+---
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+
+---
