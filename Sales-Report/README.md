@@ -20,3 +20,23 @@ The objective is to provide actionable insights through interactive dashboards a
 - Data Modeling
 
 ---
+
+## Dataset
+
+The dataset contains:
+
+- Customer information
+- Product information
+- Regional data
+- Sales transactions
+
+Main tables:
+
+- Customer
+- Product
+- Region
+- Sales
+
+---
+
+
