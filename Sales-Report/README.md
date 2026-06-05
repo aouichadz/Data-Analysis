@@ -38,5 +38,19 @@ Main tables:
 - Sales
 
 ---
+## Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Overview](/dashboard1.png)
+
+This page presents:
+
+- Total Sales
+- Total Orders
+- Revenue Trends
+- Regional Performance
+
+---
 
 
